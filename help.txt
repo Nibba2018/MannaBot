@@ -1,0 +1,11 @@
+1.!!roll -> To roll a die :game_die:
+2.!!flip -> To Flip a coin. :arrows_counterclockwise:
+3.!!solve {expression} -> To solve an expression.
+    Use 'math.' prefix with math functions like sin,cos,pi etc.
+    Can also use other Python methods and functions :crossed_swords:
+4.!!ping -> To check Latency between Manna and Discord :timer:
+5.!!invite -> Returns Manna's invite link!! :heart:
+6. Manna also has a lot of Easter Eggs:egg:, Can you find them ALL??!! :smirk:
+7.!!time -> Returns the Current Date & Time in IST format. :alarm_clock:
+8.Please Suggest new ideas to Manna by typing !!feedback {} to make him better!! Thank You :smile:
+-SohamBiswas, Developer

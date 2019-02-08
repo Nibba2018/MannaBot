@@ -1,0 +1,6 @@
+#To invite:
+https://discordapp.com/oauth2/authorize?client_id=339460228015849474&scope=bot
+#To invite with permissions:
+https://discordapp.com/oauth2/authorize?client_id=339460228015849474&scope=bot&permissions=93248
+#Manna:
+https://discordapp.com/oauth2/authorize?client_id=348819230881480704&scope=bot&permissions=93248
